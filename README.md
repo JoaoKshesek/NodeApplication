@@ -1,1 +1,1 @@
-A Back-end Application for movies rating
+A Back-end Application for RocketMovies.
